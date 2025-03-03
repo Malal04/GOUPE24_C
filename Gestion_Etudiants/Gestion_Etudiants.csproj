@@ -64,11 +64,11 @@
     <Compile Include="Etudiants.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="MainWindow.cs">
+    <Compile Include="Connexion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MainWindow.Designer.cs">
-      <DependentUpon>MainWindow.cs</DependentUpon>
+    <Compile Include="Connexion.Designer.cs">
+      <DependentUpon>Connexion.cs</DependentUpon>
     </Compile>
     <Compile Include="Matieres.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -88,6 +88,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
+    <Compile Include="NMpasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NMpasse.Designer.cs">
+      <DependentUpon>NMpasse.cs</DependentUpon>
+    </Compile>
     <Compile Include="Notes.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -99,11 +105,26 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recuperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recuperation.Designer.cs">
+      <DependentUpon>Recuperation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Utilisateurs.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="MainWindow.resx">
-      <DependentUpon>MainWindow.cs</DependentUpon>
+    <Compile Include="VerificationOTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificationOTP.Designer.cs">
+      <DependentUpon>VerificationOTP.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Connexion.resx">
+      <DependentUpon>Connexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NMpasse.resx">
+      <DependentUpon>NMpasse.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -113,7 +134,14 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Recuperation.resx">
+      <DependentUpon>Recuperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerificationOTP.resx">
+      <DependentUpon>VerificationOTP.cs</DependentUpon>
+    </EmbeddedResource>
     <EntityDeploy Include="Model1.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Model1.Designer.cs</LastGenOutput>
@@ -146,6 +174,7 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
+    <None Include="Resources\Sans titre - 1_Plan de travail 1.png" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

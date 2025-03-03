@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Gestion_Etudiants
 {
-    public partial class MainWindow : Form
+    public partial class NMpasse : Form
     {
-        public MainWindow()
+        public NMpasse()
         {
             InitializeComponent();
         }
