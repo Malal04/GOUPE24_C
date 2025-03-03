@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\Gestion_Etudiants.exe.config
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\Gestion_Etudiants.exe
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\Gestion_Etudiants.pdb
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.Properties.Resources.resources
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.exe
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.pdb
+C:\Users\DELL\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\Gestion_Etudiants.MainWindow.resources

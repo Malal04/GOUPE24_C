@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9b3cc2aca826421dbe94db720e6241e2" Name="Diagram1">
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Classes" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Cours" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Etudiants" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Matieres" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Notes" Width="1.5" PointX="7.5" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.OTPCodes" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Professeurs" Width="1.5" PointX="7.5" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="sgEtudiantG25Model.Utilisateurs" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <AssociationConnector Association="sgEtudiantG25Model.FK__Etudiants__IdCla__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.FK__Notes__IdEtudian__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.FK__Notes__IdMatiere__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.FK__OTPCodes__IdUtil__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.ClassesCours" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.CoursMatieres" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.ProfesseursClasses" ManuallyRouted="false" />
+        <AssociationConnector Association="sgEtudiantG25Model.ProfesseursMatieres" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

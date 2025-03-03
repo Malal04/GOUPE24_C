@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Gestion_Etudiants\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434ABDD1-D44F-4EA7-8916-3D7EA2A83B3E}|Gestion_Etudiants\\Gestion_Etudiants.csproj|c:\\users\\dell\\source\\repos\\gestion_etudiants\\gestion_etudiants\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{434ABDD1-D44F-4EA7-8916-3D7EA2A83B3E}|Gestion_Etudiants\\Gestion_Etudiants.csproj|solutionrelative:gestion_etudiants\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434ABDD1-D44F-4EA7-8916-3D7EA2A83B3E}|Gestion_Etudiants\\Gestion_Etudiants.csproj|c:\\users\\dell\\source\\repos\\gestion_etudiants\\gestion_etudiants\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434ABDD1-D44F-4EA7-8916-3D7EA2A83B3E}|Gestion_Etudiants\\Gestion_Etudiants.csproj|solutionrelative:gestion_etudiants\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion_Etudiants\\Gestion_Etudiants\\Model1.edmx",
+              "RelativeDocumentMoniker": "Gestion_Etudiants\\Model1.edmx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion_Etudiants\\Gestion_Etudiants\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Gestion_Etudiants\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-03T01:13:57.885Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion_Etudiants\\Gestion_Etudiants\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Gestion_Etudiants\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion_Etudiants\\Gestion_Etudiants\\MainWindow.cs [Design]",
+              "RelativeToolTip": "Gestion_Etudiants\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:29:15.46Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
